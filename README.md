@@ -3,7 +3,7 @@
 # Olá, eu sou a Lara Ferreira!
 
 **Estudante de Sistemas de Informação na PUC-Campinas**  
-Desenvolvimento de Software · Tecnologia · Aprendizado contínuo
+Tecnologia · Aprendizado contínuo
 
 </div>
 

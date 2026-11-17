@@ -30,13 +30,6 @@ Tecnologia · Aprendizado contínuo
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![SAP ABAP](https://img.shields.io/badge/SAP%20ABAP-0FA6A6?style=for-the-badge&logo=sap&logoColor=white)
 
-</div>
-
-## GitHub Stats
-
-
----
-
 <div align="center">
 
 **Sempre aprendendo, desenvolvendo e evoluindo.**

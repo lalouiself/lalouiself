@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou a Lara!
+# Olá, eu sou a Lara Ferreira!
 
 **Estudante de Sistemas de Informação na PUC-Campinas**  
 Desenvolvimento de Software · Tecnologia · Aprendizado contínuo
@@ -12,9 +12,9 @@ Desenvolvimento de Software · Tecnologia · Aprendizado contínuo
 ## Sobre mim
 
 - Graduanda em **Sistemas de Informação** pela PUC-Campinas.
-- Estagiária na área de **TI**, com contato com projetos e sistemas corporativos.
+- Estagiária na área de **Tecnologia da Informação**, com contato com sistemas e projetos corporativos.
 - Tenho interesse em desenvolvimento de software, engenharia de software e banco de dados.
-- Aprendo na prática por meio de projetos acadêmicos e pessoais.
+- Desenvolvo projetos acadêmicos e pessoais para colocar em prática o que estou aprendendo.
 
 ## Tecnologias e ferramentas
 
@@ -36,10 +36,7 @@ Desenvolvimento de Software · Tecnologia · Aprendizado contínuo
 
 <div align="center">
 
-<a href="https://github.com/lalouiself">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lalouiself&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Lara"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalouiself&layout=compact&theme=tokyonight" alt="Linguagens mais utilizadas"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=lalouiself&show_icons=true&include_all_commits=true&theme=radical&custom_title=Lara%20Ferreira%27s%20GitHub%20Stats" alt="Estatísticas do GitHub de Lara" />
 
 </div>
 

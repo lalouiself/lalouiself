@@ -34,11 +34,6 @@ Tecnologia · Aprendizado contínuo
 
 ## GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=lalouiself&show_icons=true&include_all_commits=true&theme=radical&custom_title=Lara%20Ferreira%27s%20GitHub%20Stats" alt="Estatísticas do GitHub de Lara" />
-
-</div>
 
 ---
 
